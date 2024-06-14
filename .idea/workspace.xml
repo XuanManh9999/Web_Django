@@ -6,11 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="4e61e278-c84e-4837-9d3c-23e0efb1bc90" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/app/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/app/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/app/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/app/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/app/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/app/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,24 +42,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Django Server.Web_Ban_Hang.executor": "Run",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Workspace/CODE/Python/learnWeb/Web_Ban_Hang/app/static/app/css",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "database.data.csv.formats",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Django Server.Web_Ban_Hang.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Workspace/CODE/Python/learnWeb/Web_Ban_Hang&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;database.data.csv.formats&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Workspace\CODE\Python\learnWeb\Web_Ban_Hang\app\static\app\css" />
@@ -113,7 +114,11 @@
       <option name="presentableId" value="Default" />
       <updated>1718114832029</updated>
       <workItem from="1718114833486" duration="3436000" />
-      <workItem from="1718198353740" duration="10743000" />
+      <workItem from="1718198353740" duration="10800000" />
+      <workItem from="1718253875890" duration="609000" />
+      <workItem from="1718269153224" duration="362000" />
+      <workItem from="1718373351038" duration="36000" />
+      <workItem from="1718381226289" duration="3392000" />
     </task>
     <servers />
   </component>
